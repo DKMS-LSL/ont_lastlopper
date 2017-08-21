@@ -1,5 +1,8 @@
 #!/bin/bash
-# Aufruf mit 08_demultiplex_last.sh fastq [Primerfile]
+# Call with demultiplex_vlast.sh <fastq file> <Barcode/Primer Fasta File> 
+
+# Author : Philipp Quenzel ( quenzel@dkms-lab.de )
+# Wrapper script for running lastlopper 
 
 
 ### Variablen
