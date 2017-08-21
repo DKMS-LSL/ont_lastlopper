@@ -2,6 +2,12 @@
 
 # note: code skeleton is from Raynbow code
 
+# Original author : David Eccles  
+# Original script is at https://github.com/gringer/bioinfscripts/blob/master/lastlopper.pl
+
+# Modified by : Vineeth Surendranath ( surendranath@dkms-lab.de )
+# Modification : Two rounds of LAST first with adapter and then with barcode to increase specificity 
+
 use warnings;
 use strict;
 
